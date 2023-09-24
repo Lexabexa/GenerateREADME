@@ -1,12 +1,13 @@
 # GenerateREADME
 In this Repo I created a README generator that uses the Inquirer NPM, File System (FS), and Node.js to automatically create README files through the command line terminal.
+
 # Table of Contents
+* [Table of Contents](#TableofContents)
 * [Description](#description)
 * [Requirements](#requirements)
-* [Table of Contents](#TableofContents)
 * [Usage](#usage)
-* [Contact-Me](#contact-me)
 * [Demo](#demo)
+* [Contact-Me](#contact-me)
 * [License](#license)
 
 # Description
@@ -18,6 +19,10 @@ Inquirer 8.2.4 (or later)
 ## Usage
 Markdown, JavaScript, Node, JSON
 (Repository is a Demo, Not Live)
+
+# Contact-Me
+Email: lexabexa3@gmail.com
+Github: Lexabexa
 
 # License
 MIT License
