@@ -22,6 +22,8 @@ Markdown, JavaScript, Node, JSON
 (Repository is a Demo, Not Live)
 
 # Tests
+use:
+npm run test
 
 # Contributing
 
