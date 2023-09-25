@@ -3,7 +3,7 @@
 //function renderLicenseBadge(license) {}
 function renderLicenseBadge(license) {
   if (license !=="none") {
-    return
+    return "";
   }
 }
 
