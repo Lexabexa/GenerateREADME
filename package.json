@@ -1,0 +1,14 @@
+{
+  "name": "generatereadme",
+  "version": "1.0.0",
+  "description": "In this Repo I created a README generator that uses the Inquirer NPM, File System (FS), and Node.js to automatically create README files through the command line terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
