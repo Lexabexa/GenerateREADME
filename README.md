@@ -1,6 +1,6 @@
 # GenerateREADME
 
-Use my README generator that uses Inquirer NPM, File System (FS), and Node.js to automatically create README files through the command line terminal.
+Use my README generator that uses Inquirer NPM, File System (FS), and Node.js to automatically create README.md files through the command line terminal.
 
 # TableOfContents
 
@@ -20,11 +20,12 @@ M.9 Project README Generator Criteria: GIVEN a command-line application that acc
 # Installation
 
 Requires Inquirer 8.2.4 (or later)
-
-# Usage
-
 Markdown, JavaScript, Node, JSON
 (Repository is a Demo, Not Live)
+
+# Usage 
+Demo Video
+
 
 # Tests
 
