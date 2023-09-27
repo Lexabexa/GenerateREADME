@@ -1,6 +1,6 @@
 # GenerateREADME
 
-In this Repo I created a README generator that uses the Inquirer NPM, File System (FS), and Node.js to automatically create README files through the command line terminal.
+Use my README generator that uses Inquirer NPM, File System (FS), and Node.js to automatically create README files through the command line terminal.
 
 # TableOfContents
 
@@ -32,13 +32,14 @@ use:
 npm run test
 
 # Contributing
+[OWASP](https://owasp.org/www-community/password-special-characters)
 
-starter code:
-<https://github.com/coding-boot-camp/potential-enigma>
+[Starter Code](https://github.com/coding-boot-camp/potential-enigma)
 
 # Questions
 
 Email: <lexabexa3@gmail.com>
+
 Github: <https://github.com/Lexabexa>
 
 # License
