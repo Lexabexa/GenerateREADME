@@ -34,6 +34,8 @@ npm run test
 # Contributing
 [OWASP](https://owasp.org/www-community/password-special-characters)
 
+[UC Berkeley](https://courses.bootcampspot.com/courses/3634/external_tools/249)
+
 [Starter Code](https://github.com/coding-boot-camp/potential-enigma)
 
 # Questions
