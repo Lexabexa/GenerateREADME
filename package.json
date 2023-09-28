@@ -1,17 +1,24 @@
 {
   "name": "generatereadme",
   "version": "1.0.0",
-  "description": "In this Repo I created a README generator that uses the Inquirer NPM, File System (FS), and Node.js to automatically create README files through the command line terminal.",
+  "description": "readme generation",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "lexabexa"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Alexa Webb",
+  "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.11"
-  },
-  "devDependencies": {
-    "@types/node": "^20.6.5"
+    "inquirer": "^8.2.4"
   }
 }
