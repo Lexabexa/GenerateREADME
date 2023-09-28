@@ -1,0 +1,24 @@
+{
+  "name": "generatereadme",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lexabexa"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Alexa Webb2023",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
