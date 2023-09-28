@@ -38,26 +38,26 @@ function generateMarkdown(data) {
 * [Contributing](#Contributing)
 * [Questions](#Questions)
 * [License](#License)
-# Description
+## Description
 ${data.Description}
-# Screenshot
+## Screenshot
 ![alt-text](${data.Screenshot})
-# Link
+## Link
 ${data.link}
-# Installation
+## Installation
 ${data.Installation}
-# Usage
+## Usage
 ${data.Usage}
-# Tests
+## Tests
 ${data.Tests}
-# Contributing
+## Contributing
 ${data.Contributing}
-# Questions
+## Questions
 ${data.Questions}
-# License
+## License
 ${renderLicenseBadge(data.License)}
 
 `;
 }
 
-export default generateMarkdown;
+module.exports = generateMarkdown;
